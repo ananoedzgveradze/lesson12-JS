@@ -116,7 +116,7 @@ function sum(...args){
     }
     return numbersum;
 }
-    let result=sum(10, 50, 6, 7, 8, 11, 6, 3, 9);
+    let result1=sum(10, 50, 6, 7, 8, 11, 6, 3, 9);
     console.log(result);
 
 //function exercise3
